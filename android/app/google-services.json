@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "97939010387",
+    "project_id": "lace-541ee",
+    "storage_bucket": "lace-541ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97939010387:android:711ca2fefd93a193af67a6",
+        "android_client_info": {
+          "package_name": "com.SamFreeman.LACEDEPLOY"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97939010387-61nsbn4s2it154ed0prqtis4c7cr56jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SamFreeman.LACEDEPLOY",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "97939010387-nql83l5bahqcol1tmfcg221hfu38fu2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkJFm-e1kXHRgEoPbxlvGV0DhV9Jb1UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97939010387-nql83l5bahqcol1tmfcg221hfu38fu2o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97939010387-gsivltmq10qk2uabm0l5cr3bns3s1a8r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.lace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
